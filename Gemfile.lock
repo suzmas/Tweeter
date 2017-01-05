@@ -41,7 +41,7 @@ GEM
       tzinfo (~> 1.1)
     ansi (1.5.0)
     arel (7.1.4)
-    autoprefixer-rails (6.6.0)
+    autoprefixer-rails (6.6.1)
       execjs
     bcrypt (3.1.11)
     bootstrap-sass (3.3.6)
@@ -191,7 +191,7 @@ GEM
     fog-voxel (0.1.0)
       fog-core
       fog-xml
-    fog-vsphere (1.5.2)
+    fog-vsphere (1.6.0)
       fog-core
       rbvmomi (~> 1.9)
     fog-xenserver (0.2.3)
@@ -251,7 +251,7 @@ GEM
     multi_json (1.12.1)
     nenv (0.3.0)
     nio4r (1.2.1)
-    nokogiri (1.6.8.1)
+    nokogiri (1.7.0.1)
       mini_portile2 (~> 2.1.0)
     notiffany (0.1.1)
       nenv (~> 0.1)
@@ -281,9 +281,9 @@ GEM
       actionpack (~> 5.x)
       actionview (~> 5.x)
       activesupport (~> 5.x)
-    rails-dom-testing (2.0.1)
+    rails-dom-testing (2.0.2)
       activesupport (>= 4.2.0, < 6.0)
-      nokogiri (~> 1.6.0)
+      nokogiri (~> 1.6)
     rails-html-sanitizer (1.0.3)
       loofah (~> 2.0)
     railties (5.0.1)
